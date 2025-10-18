@@ -1,4 +1,4 @@
-# happy-squad-discord-bot
+# Happy Squad Discord Bot
 
 A small Discord bot that provides a few helpful slash commands, welcome/logging functionality, and server helper utilities for a Hungarian-speaking community.
 
