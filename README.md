@@ -45,9 +45,8 @@ Create a `.env` file in the project root (the project already uses `python-doten
 
 ```
 DISCORD_BOT_TOKEN=your_bot_token_here
-GUILD_ID=123456789012345678
-RULES_CHANNEL_ID=123456789012345678
-HAPPY_ID=123456789012345678
+GUILD_ID=your_guild_id
+RULES_CHANNEL_ID=rules_channel_id
 ```
 
 - `DISCORD_BOT_TOKEN` — The bot token from the Discord Developer Portal.
