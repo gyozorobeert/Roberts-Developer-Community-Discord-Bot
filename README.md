@@ -33,7 +33,7 @@ Make sure the bot application has the following privileged intents enabled in th
 Clone the repository and install dependencies:
 
 ```powershell
-git clone https://github.com/yourusername/happy-squad-discord-bot.git
+git clone https://github.com/Robesz0021/happy-squad-discord-bot.git
 cd happy-squad-discord-bot
 python -m pip install --upgrade pip
 pip install -r requirements.txt
